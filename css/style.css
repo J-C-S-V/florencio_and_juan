@@ -1,0 +1,16 @@
+header {
+    font-weight: bold;
+    font-size: 25px;
+}
+
+code {
+    font-family: monospace;
+}
+
+#navbar {}
+
+body {
+    display: flex;
+}
+
+@media (max-width: 600px) {}
